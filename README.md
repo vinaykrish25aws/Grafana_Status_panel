@@ -1,4 +1,5 @@
 # Grafana Status Panel
+# Not working in latest Grafana
 
 This is a plugin meant to be used as a centralized view for the status of component in a glance.
 It is very similar to the Single Stat panel, but it can hold multiple values from the same data source.
